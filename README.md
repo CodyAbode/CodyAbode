@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Cody Abode. (He/Him) 🏠
 I'm a professional security engineer and hobbyist game developer.
 
-- 🔭 I’m currently working on tools that break things and a bot for my Discord server.
+-  I’m currently working on tools that break things and a bot for my Discord server.
 - 👨‍💻 `Python` is my favorite language, but I also use `C#` for game development.
 - 💬 Reach me on Discord: [Cody Abode#0011](https://discordapp.com/users/232361117643440129)
 
